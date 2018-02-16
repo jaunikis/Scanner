@@ -10,5 +10,6 @@ public class Main {
         int x=scn.nextInt();
         System.out.println();
         System.out.println("you entered "+x);
+        System.out.printf("end");
     }
 }
